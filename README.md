@@ -1,4 +1,4 @@
- SQL / MySQL Skills
+ SQL / MySQL 
 - Querying data to retrieve specific information from databases  
 - Manipulating and updating data with command-based operations  
 - Managing database structures, including tables, keys, and relationships  
